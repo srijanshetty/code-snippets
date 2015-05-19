@@ -1,0 +1,9 @@
+*
+!.sheets/
+!.sheets/*
+!.gitignore.d
+!.gitignore.d/code-snippets
+!.README.d/
+!.README.d/code-snippets.md
+!.LICENSES.d/
+!.LICENSES.d/code-snippets
