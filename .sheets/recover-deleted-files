@@ -1,0 +1,2 @@
+grep --binary-files=text --context=x 'stringfromyourfile' \
+    /dev/whateverPartition > someFile.txt
