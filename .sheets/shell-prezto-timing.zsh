@@ -1,7 +1,6 @@
 #!/usr/bin/env zsh
 
-lw=('terminal' 'editor' 'history' 'directory' 'git' 'dpkg' 'yum' 'node' 'ssh' 'tmux' 'spectrum' 'utility' 'completion' 'syntax-highlighting' 'history-substring-search' 'prompt' 'custom' 'autoenv' 'ruby' 'python' 'dwim')
-
+lw=(archive autoenv command-not-found completion custom directory dpkg dwim editor emacs environment fasd git gnu-utility gpg haskell helper history history-substring-search homebrew macports node ocaml osx pacman perl prompt python rails rsync ruby screen spectrum ssh syntax-highlighting terminal tmux utility wakeonlan yum)
 
 for i in $lw; do
     echo $i
