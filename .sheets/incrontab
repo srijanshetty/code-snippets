@@ -1,0 +1,3 @@
+#LOCATION FLAG command
+/tmp/imported IN_CREATE,IN_MOVED_TO rsync -av --copy-links --remove-source-files /tmp/imported/ /home/srijan/sorted/
+/tmp/wallpapers IN_CREATE,IN_MOVED_TO /home/srijan/wallpaper.sh
